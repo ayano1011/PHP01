@@ -9,6 +9,6 @@
    <?php }else{ ?>
      アップロードは失敗しました。
    <?php } ?></p>
-   <a href="upload.php">アップロードページへ戻る</a>
+   <a href="oogiri.php">アップロードページへ戻る</a>
  </body>
 </html>

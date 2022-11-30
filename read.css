@@ -1,0 +1,13 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.answers-area {
+    background-color: #c6d2db;
+    margin-bottom: 20px;
+}
+
+.answers-text {
+    padding-left: 10px;
+}

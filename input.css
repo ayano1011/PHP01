@@ -1,0 +1,16 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+fieldset {
+    border: 4px double black;
+}
+
+legend.sample {
+    margin-left: 250px;
+}
+
+.submit-area {
+    display: flex;
+}
